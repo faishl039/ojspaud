@@ -1,0 +1,9 @@
+<?php $exp = 1769674515; $val = array (
+  'application' => 'defaultManuscript',
+  'class' => 'DefaultManuscriptChildThemePlugin',
+  'type' => 'plugins.themes',
+  'release' => '1.0.4.0',
+  'date' => '2023-10-19',
+  'lazy-load' => 1,
+  'sitewide' => 0,
+);
